@@ -1,0 +1,29 @@
+# Team members:
+1. Abhiram Anand Gulanikar
+2. Vinay Pandhariwal
+3. Prathmesh Sambrekar
+
+# Team Member tasks (Refer Report)
+1. Abhiram : RUNNING WEBTIER ON OPENSTACK. DESIGN AND DEVELOPED APPTIER FUNCTIONALITIES AND HELPED IN SQS OPERATIONS.
+2. Vinay : INSTALLING AND DEPLOYING OPENSTACK. DESIGN AND DEVELOPED THE WEBTIER FUNCTIONALITIES AND HELPED IN SQS OPERATIONS.
+3. Prathmesh : NETWORK CONFIGURATIONS ON OPENSTACK. DESIGN AND DEVELOPED THE SQS, S3 OPERATIONS THROUGH JAVA TO PYTHON AND TOOK CARE OF RIGOROUS TESTING.
+
+# AWS Credentials
+AWSAccessKeyId=AKIAQMYAW24ZTXBO3O4H
+AWSSecretKey=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
+
+# PEM Key
+PLEASE FIND FILE CC-Class.pem in directory.
+
+# EIP <NOT PURCHASED>
+
+# SQS names:
+1. input-queue-alpha-p3.fifo
+2. output-queue-alpha-p3.fifo
+
+# S3 bucket names:
+1. input-bucket-alpha-p3
+2. output-bucket-alpha-p3
+
+
+
